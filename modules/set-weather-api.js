@@ -1,5 +1,5 @@
 class SetWeatherApi{
-    #apiKey = '731cf233a8780fff61fc00a222365b4e'
+    #apiKey = '***'
     #weather // it'll store object from weather api
     constructor() {
     }
